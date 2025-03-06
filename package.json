@@ -1,8 +1,20 @@
 {
   "name": "vite-react-starter",
-  "private": true,
   "version": "0.0.0",
+  "private": true,
+  "description": "you are developing an admin protal for the website where i will display all the user details.\r Now you need to prepare an card compoennt to display each user details.",
+  "homepage": "https://github.com/Thamizhanban2006/Designing_a_component_pa_2#readme",
+  "bugs": {
+    "url": "https://github.com/Thamizhanban2006/Designing_a_component_pa_2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thamizhanban2006/Designing_a_component_pa_2.git"
+  },
+  "license": "ISC",
+  "author": "",
   "type": "module",
+  "main": "eslint.config.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
